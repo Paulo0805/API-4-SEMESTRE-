@@ -54,7 +54,7 @@
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 24/04/2026 | concluído | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint01.md)  |
+| 01                | 24/04/2026 | concluído | [MVP] |
 | 02                | 15/05/2026 | a fazer  |  |
 | 03                | 29/05/2026 | a fazer  |  |
 | Feira de Soluções | 18/06/2026 | a fazer  | |
