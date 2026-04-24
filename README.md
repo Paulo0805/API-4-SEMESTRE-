@@ -55,9 +55,28 @@
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 24/04/2026 | concluído | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint01.md)  |
-| 02                | 15/05/2026 | a fazer  | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint02.md)  |
-| 03                | 29/05/2026 | a fazer  | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint03.md) |
-| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#) |
+| 02                | 15/05/2026 | a fazer  |  |
+| 03                | 29/05/2026 | a fazer  |  |
+| Feira de Soluções | 18/06/2026 | a fazer  | |
+
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+
+# Sprint 1
+
+
+# Tela 1
+<img width="1318" height="741" alt="WhatsApp Image 2026-04-24 at 19 29 46" src="https://github.com/user-attachments/assets/169500ba-cb47-4332-bd54-ccf4e3d87448" />
+
+
+
+# Tela 2
+
+
+<img width="1600" height="670" alt="WhatsApp Image 2026-04-24 at 19 29 34" src="https://github.com/user-attachments/assets/28321a0e-e723-4073-932d-0cc49618946d" />
+
+
 
 
 
