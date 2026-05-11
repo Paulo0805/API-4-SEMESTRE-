@@ -60,21 +60,19 @@
 # Product Backlog 
 
 |
-| Classificação            | Prioridade   | Historia do usuario   | Estimativa |  
-|-------------------|------------|----------|-----------|
-| 01                | Alta | Como tomador de decisões de políticas públicas, quero uma visualização interativa da frota nacional, apresentando quantidade de portos, quantidade movimentada, tipos de carga.|4 |
-| 02                | Alta | Como tomador de decisões de políticas públicas, quero visualizar dados de analise de eficiencia de terminais portuários.|4 |
-| 03                |Media | Como tomador de decisões de políticas públicas, quero uma visualização consolidada das classificações de SH4.|8 |
-| 04                |Alta  | Como tomador de decisões de políticas públicas, quero entender o porque as cargas foram paradas em portos.|4 |
-| 05                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de eficencia de terminais portuários.|3 |
-| 06                |Media | Como tomador de decisões de politicas públicas, quero um ranking de eficiencia dos portos.|8 |
-| 07                |Media | Como tomador de decisões de politicas públicas, quero visualizar a diferença entre os principais portos Brasileiros para os principais portos Mundiais.|10 |
-| 08                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar quais as principais cargas movimentadas.|2 |
-| 09                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de movimentação nos portos.|3 |
-| 10                |Baixa | Como tomador de decisões de políticas públicas, quero filtros interativos no dashboard para análises mais direcionadas.|5 |
-| 11                |Baixa | Como tomador de decisões de políticas públicas, quero que o dashboard em Power BI tenha design padronizado, limpo, responsivo e interativo, facilitando tanto a análise exploratória quanto a apresentação formal dos resultados.|5 |
-
-
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 01                | Alta | Como tomador de decisões de políticas públicas, quero uma visualização interativa da frota nacional, apresentando quantidade de portos, quantidade movimentada, tipos de carga.                                                    | 4          | 1      |
+| 02                | Alta | Como tomador de decisões de políticas públicas, quero visualizar dados de analise de eficiencia de terminais portuários.                                                    | 4          | 1      |
+| 03                |Media | Como tomador de decisões de políticas públicas, quero uma visualização consolidada das classificações de SH4.                                                    | 4          | 1      |
+| 04                |Alta  | Como tomador de decisões de políticas públicas, quero entender o porque as cargas foram paradas em portos.                                                    | 4          | 1      |
+| 05                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de eficencia de terminais portuários.                                                    | 4          | 1      |
+| 06                |Media | Como tomador de decisões de politicas públicas, quero um ranking de eficiencia dos portos.                                                    | 4          | 1      |
+| 07                |Media | Como tomador de decisões de politicas públicas, quero visualizar a diferença entre os principais portos Brasileiros para os principais portos Mundiais.                                                    | 4          | 1      |
+| 08                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar quais as principais cargas movimentadas.                                                    | 4          | 1      |
+| 09                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de movimentação nos portos.                                                    | 4          | 1      |
+| 10                |Baixa | Como tomador de decisões de políticas públicas, quero filtros interativos no dashboard para análises mais direcionadas.                                                    | 4          | 1      |
+| 11                |Baixa | Como tomador de decisões de políticas públicas, quero que o dashboard em Power BI tenha design padronizado, limpo, responsivo e interativo, facilitando tanto a análise exploratória quanto a apresentação formal dos resultados.                                                    | 4          | 1      |
 
 
 # Sprints
