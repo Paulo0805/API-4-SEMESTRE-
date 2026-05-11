@@ -79,7 +79,7 @@
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 24/04/2026 | concluído | [MVP](MVP/Sprint1)  |
+| 01                | 24/04/2026 | concluído | [MVP](MVP/sprint1)  |
 | 02                | 15/05/2026 | a fazer  |  |
 | 03                | 29/05/2026 | a fazer  |  |
 | Feira de Soluções | 18/06/2026 | a fazer  | |
