@@ -58,7 +58,22 @@
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Product Backlog 
-<img width="1875" height="720" alt="image" src="https://github.com/user-attachments/assets/d3051381-e6a3-49a7-84b4-5f46074f4ba9" />
+
+|
+| Classificação            | Prioridade   | Historia do usuario   | Estimativa |  
+|-------------------|------------|----------|-----------|
+| 01                | Alta | Como tomador de decisões de políticas públicas, quero uma visualização interativa da frota nacional, apresentando quantidade de portos, quantidade movimentada, tipos de carga.|4 |
+| 02                | Alta | Como tomador de decisões de políticas públicas, quero visualizar dados de analise de eficiencia de terminais portuários.|4 |
+| 03                |Media | Como tomador de decisões de políticas públicas, quero uma visualização consolidada das classificações de SH4.|8 |
+| 04                |Alta  | Como tomador de decisões de políticas públicas, quero entender o porque as cargas foram paradas em portos.|4 |
+| 05                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de eficencia de terminais portuários.|3 |
+| 06                |Media | Como tomador de decisões de politicas públicas, quero um ranking de eficiencia dos portos.|8 |
+| 07                |Media | Como tomador de decisões de politicas públicas, quero visualizar a diferença entre os principais portos Brasileiros para os principais portos Mundiais.|10 |
+| 08                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar quais as principais cargas movimentadas.|2 |
+| 09                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de movimentação nos portos.|3 |
+| 10                |Baixa | Como tomador de decisões de políticas públicas, quero filtros interativos no dashboard para análises mais direcionadas.|5 |
+| 11                |Baixa | Como tomador de decisões de políticas públicas, quero que o dashboard em Power BI tenha design padronizado, limpo, responsivo e interativo, facilitando tanto a análise exploratória quanto a apresentação formal dos resultados.|5 |
+
 
 
 
