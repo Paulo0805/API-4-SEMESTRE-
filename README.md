@@ -25,7 +25,14 @@
 
 * ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-* # Projeto API
+* # OBJETIVO DO PROJETO
+* Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
 
 * # Equipe
 
@@ -50,11 +57,16 @@
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
+# Product Backlog 
+<img width="1875" height="720" alt="image" src="https://github.com/user-attachments/assets/d3051381-e6a3-49a7-84b4-5f46074f4ba9" />
+
+
+
 # Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 24/04/2026 | concluído | [MVP] |
+| 01                | 24/04/2026 | concluído | https://github.com/Paulo0805/API-4-SEMESTRE-/edit/main/README.md#objetivo-do-projeto |
 | 02                | 15/05/2026 | a fazer  |  |
 | 03                | 29/05/2026 | a fazer  |  |
 | Feira de Soluções | 18/06/2026 | a fazer  | |
