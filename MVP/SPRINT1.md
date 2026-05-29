@@ -30,6 +30,8 @@
 * Market Segmentation: Breakdown of volume by "Navigation Type" (highlighting Long Haul and Cabotage) and by "Geographic Region".
 * Performance Ranking: Top 10 Ports by Volume, led by the Ponta da Madeira Maritime Terminal and the Port of Santos.
 
+  ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
   ## ✈️ User Stories (MVP Backlog)
  
 
@@ -41,19 +43,22 @@
 | 03                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de movimentação nos portos.                                                    | 3          | 1      |
 
 
-  ## 📊 Key Indicators (Visualized in Dashboard)
+  ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-* Total Volume (ton): 2.75 Billion.
-* Total Berthings: 223 Thousand.
-* Active Ports: 220 units.
-* Navigation Distribution: "Long Haul" (Longo Curso) represents the vast majority at 70.99% (1.96 Bi).
-* Regional Leadership: The Southeast region leads in gross cargo weight, followed by the Northeast and South.
+  ## 📊 Notes on Dashboard Data
+
+Data were accessed through the [ANTAQ Statistics Portal](https://estatistica.antaq.gov.br/ea/sense/download.html?utm_source=chatgpt.com#pt) for download and analysis. The datasets used included berthing operations, cargo handling, containerized cargo, and occupancy rates. To facilitate data visualization and interpretation, an auxiliary file containing the full names of the ports corresponding to their current abbreviations was also utilized.
+
+
+  ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 ## 🚢 Next Steps
 
-* Refine the analyses based on the feedback received.
-* Refine the "Average Operation Time" metric to resolve visual overlaps in the interface.
-* Expand regional analysis to include state-level details within the North, South, Northeast, and Southeast regions.
+* Inclusion of new datasets on berthed and idle cargo operations to expand the dashboard analyses.
+* Expansion of the regional analysis with state-level details for the North, Northeast, Southeast, and South regions.
+* Adjustments to the “Average Operation Time” metric to resolve visual overlaps in the interface.
+* Refinement of the analyses based on the feedback received throughout the project.
 
 
 
