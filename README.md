@@ -23,7 +23,7 @@
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Alocação de Tarefas com base no DoR](#Alocação-de-Tarefas-com-base-no-DoR)
 
-* ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 * # OBJETIVO DO PROJETO
 * Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -33,6 +33,8 @@
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 * # Equipe
 
@@ -73,13 +75,14 @@
 | 10                |Baixa | Como tomador de decisões de políticas públicas, quero filtros interativos no dashboard para análises mais direcionadas.                                                    | 5          | 3      |
 | 11                |Baixa | Como tomador de decisões de políticas públicas, quero que o dashboard em Power BI tenha design padronizado, limpo, responsivo e interativo, facilitando tanto a análise exploratória quanto a apresentação formal dos resultados.                                                    | 5          | 3      |
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 24/04/2026 | concluído | [MVP](MVP/SPRINT1.md)  |
-| 02                | 15/05/2026 | a fazer  | [MVP](MVP/SPRINT2.md)  |
+| 02                | 15/05/2026 | concluído  | [MVP](MVP/SPRINT2.md)  |
 | 03                | 29/05/2026 | a fazer  |  |
 | Feira de Soluções | 18/06/2026 | a fazer  | |
 
