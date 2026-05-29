@@ -1,6 +1,6 @@
-# 📈 MVP SPRINT 1 - Port Operations Analysis
+# MVP SPRINT 1 - Port Operations Analysis
 
-## 🎯 Objective of MVP
+## Objective of MVP
 
 
 * What problem does it solve?
@@ -11,9 +11,7 @@ The MVP presents a consolidated view of port movements from the 2024 to 2025, co
 
 * What hypothesis will be validated?
 
-  The hypothesis being validated is that presenting initial analyses and extracted data is sufficient to generate an initial understanding and guide
-  the next steps of the project. Additionally, it validates that a centralized visualization of berthing metrics and cargo volume allows for the quick
-  identification of the most productive ports and main navigation types.
+The hypothesis being validated is that presenting initial analyses and extracted data is sufficient to generate an initial understanding and guide the next steps of the project. Additionally, it validates that a centralized visualization of berthing metrics and cargo volume allows for the quick identification of the most productive ports and main navigation types.
 
 
 
@@ -21,9 +19,9 @@ The MVP presents a consolidated view of port movements from the 2024 to 2025, co
  
 A clear and structured summary of preliminary analyses, enabling users to validate work progress and plan future actions. A monitoring tool highlighting a Total Volume of 2.75 Billion tons and activity across 220 active ports.
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-
-  ## ✈️ User Stories (MVP Backlog)
+  ## User Stories (MVP Backlog)
  
 
 
@@ -36,7 +34,7 @@ A clear and structured summary of preliminary analyses, enabling users to valida
 
   ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-  ## 📊 Notes on Dashboard Data
+  ## Notes on Dashboard Data
 
 Data were accessed through the [ANTAQ Statistics Portal](https://estatistica.antaq.gov.br/ea/sense/download.html?utm_source=chatgpt.com#pt) for download and analysis. The datasets used included berthing operations, cargo handling, containerized cargo, and occupancy rates. To facilitate data visualization and interpretation, an auxiliary file containing the full names of the ports corresponding to their current abbreviations was also utilized.
 
@@ -44,7 +42,7 @@ Data were accessed through the [ANTAQ Statistics Portal](https://estatistica.ant
   ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 
-## 🚢 Next Steps
+## Next Steps
 
 * Inclusion of new datasets on berthed and idle cargo operations to expand the dashboard analyses.
 * Expansion of the regional analysis with state-level details for the North, Northeast, Southeast, and South regions.
