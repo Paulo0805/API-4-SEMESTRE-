@@ -58,7 +58,7 @@
 
 # Product Backlog 
 
-|
+
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 01                | Alta | Como tomador de decisões de políticas públicas, quero uma visualização interativa da frota nacional, apresentando quantidade de portos, quantidade movimentada, tipos de carga.                                                    | 4          | 1      |
