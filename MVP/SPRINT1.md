@@ -25,11 +25,11 @@ A clear and structured summary of preliminary analyses, enabling users to valida
  
 
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+| Rank | Priority | User Story                                                                                                                                              | Estimation | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 01                | Alta | Como tomador de decisões de políticas públicas, quero uma visualização interativa da frota nacional, apresentando quantidade de portos, quantidade movimentada, tipos de carga.                                                    | 4          | 1      |
-| 02                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar quais as principais cargas movimentadas.                                                    | 2          | 1      |
-| 03                |Alta  | Como tomador de decisões de políticas públicas, quero visualizar a analise de movimentação nos portos.                                                    | 3          | 1      |
+| 01                | High | As a public policy decision-maker, I want an interactive visualization of the national fleet, presenting the number of ports, cargo volume handled, and cargo types.                                                    | 4          | 1      |
+| 02                |High  | As a public policy decision-maker, I want to visualize the main types of cargo being transported.                                                    | 2          | 1      |
+| 03                |High  | As a public policy decision-maker, I want to visualize the analysis of port cargo movements.                                                    | 3          | 1      |
 
 
   ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
