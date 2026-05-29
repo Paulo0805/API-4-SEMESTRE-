@@ -1,4 +1,24 @@
 # SPRINT2
+## Objective of MVP
+
+
+* What problem does it solve?
+
+The MVP presents a consolidated view of port movements from the 2024 to 2025, converting raw data into strategic indicators such as total volume, operational efficiency, and geographic distribution.
+
+
+
+* What hypothesis will be validated?
+
+The hypothesis being validated is that presenting initial analyses and extracted data is sufficient to generate an initial understanding and guide the next steps of the project. Additionally, it validates that a centralized visualization of berthing metrics and cargo volume allows for the quick identification of the most productive ports and main navigation types.
+
+
+
+ * What value will be delivered to the end user?
+ 
+A clear and structured summary of preliminary analyses, enabling users to validate work progress and plan future actions. A monitoring tool highlighting a Total Volume of 2.75 Billion tons and activity across 220 active ports.
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## Product Backlog 
 
