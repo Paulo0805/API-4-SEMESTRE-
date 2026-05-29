@@ -41,6 +41,8 @@ During the second phase of the project, additional datasets related to berthed a
 <img width="1600" height="902" alt="WhatsApp Image 2026-05-29 at 16 46 03" src="https://github.com/user-attachments/assets/dce1adf9-e56b-4d0a-9adf-077f630bab3f" />
 
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Next Steps
 
 * Expand cargo movement analysis by cargo type.
