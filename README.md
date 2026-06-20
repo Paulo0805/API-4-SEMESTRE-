@@ -82,9 +82,9 @@
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 24/04/2026 | concluído | [MVP](MVP/SPRINT1.md)  |
-| 02                | 15/05/2026 | concluído  | [MVP](MVP/SPRINT2.md)  |
-| 03                | 29/05/2026 | concluído | [MVP](MVP/SPRINT3.md)   | 
-| Feira de Soluções | 18/06/2026 | a fazer  | |
+| 02                | 22/05/2026 | concluído  | [MVP](MVP/SPRINT2.md)  |
+| 03                | 20/06/2026 | concluído | [MVP](MVP/SPRINT3.md)   | 
+| Feira de Soluções | 25/06/2026 | a fazer  | |
 
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
